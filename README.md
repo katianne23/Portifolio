@@ -10,4 +10,4 @@ Criação de um portfolio com informações básicas
 * [Bootstrap](https://getbootstrap.com/)
 
 ## Acesso a pagina:
-* [Acessar](https://mensagemdisparada.netlify.app/)
+* [Acessar]()
