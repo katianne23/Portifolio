@@ -104,21 +104,16 @@
                 <div>
                     <p>Deixe seu contato!</p>
                 </div>
-                <input type="text" placeholder="Seu melhor email :)">
-                <button>Enviar!</button>
+                <form action="">
+                <input type="email" id="email" name="email" placeholder="Seu melhor email :)">
+                <button type="submit" id= "send" value="enviar">Enviar!</button>
+                </form>
             </div>
             <footer>
               <p>Katianne Araújo &copy  2022</p>
             </footer>
         </section>
     </main>
-    <script>
-        function displayAbout(){
-            var arrow = document.getElementById('animation');
-            arrow.classList.toggle('rotate');
-            var display= document.getElementById('about');
-            display.classList.toggle('active');
-        } 
-    </script>
+    <Script src="assets/js/script.js"></Script>
 </body>
 </html>
